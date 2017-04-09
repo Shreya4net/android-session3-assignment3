@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47f82f8e4de751fc338f992830df3bdaa35d5f3d">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_00246d8a6b15fb300da75bcef5e92ca7abddd98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3653e6bb71cab68aedee82b5d0cb2a300e289abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8c6acd98931c71e09abd2b8b705ed42cedcff9f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6def79b0412326919b4436ed7d5aa10d585ef012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_704e7404866c539179dd560d35c22b583ebc85eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2912829f58dc2afe95471d581a870ab6a2d06517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_faa258e5e6eb2f9e94d1ca3d7531dfa7b76a37a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_569a241d558e065d475eeffc78ab4c748a7c52cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_27725089c2166430d14c897d4667600f0de9a54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_4cd72c469b20a56b0f03a4975cc2b00e88b6767f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_682b860f42a622a45b50fec82ab1604a17915741\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_758527ea16b82d7a2460b7abada77e524681a44a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1fd7b7921303031421bb9897f4836abc614ca0b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a50bee3877201644af3b9f8b7b8303b8243d6104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a4097993eb8fa1065c1d2348feb609640db8db12">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d729ca9d42b2aefa51f82036cd3d51c1c620cf60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\maknid\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_cde561747bd7db85c7c64e591c207521dc79deb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Pickimage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Pickimage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d5be08155846c13b78f5b581adc59ea18f18bfb4\classes.dex" />
+    </item>
+
+</items>
